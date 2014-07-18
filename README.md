@@ -58,5 +58,3 @@ This is a summary of the sample dataset to feed into the routine to test how it 
 |Charleston | 270 days | Home / Resturant / Farm Coop| Cost of 3 meals per day| Restaurant at 30 days, Farms at 60 |
 
 
-There is currently a copy of the excel file, but I intend to delete that later.
-  
