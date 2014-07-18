@@ -1,7 +1,7 @@
 r-package-utilization-rate
 ==========================
 
-This is going to be a package for the evaluation of utilization rates.
+This is going to be a package for the evaluation of utilization rates of various types.
 
 The basic premis of this package will be to evaluate how changes to the utilization rate of an indpendant variable effect the value of a dependent variable over time. At the end of each period the significance of the change will be evaluated. 
 
@@ -16,6 +16,7 @@ The basic premis of this package will be to evaluate how changes to the utilizat
   * Initial options will be day, week, month
 3. P Value
   * Default value will be 0.05
+  * There will be an option to have actual P values reported
   
 #### During exection of the routine the following inputs will be requested
 
@@ -42,8 +43,6 @@ There will be two main output categories: tables and graphs
     * P-Values marked
   
 
-
-
 ```
 Not sure where to put these ideas:
 Calculation of number of days to reach significance
@@ -59,8 +58,5 @@ This is a summary of the sample dataset to feed into the routine to test how it 
 |Charleston | 270 days | Home / Resturant / Farm Coop| Cost of 3 meals per day| Restaurant at 30 days, Farms at 60 |
 
 
-
-
-
-
+There is currently a copy of the excel file, but I intend to delete that later.
   
